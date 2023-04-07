@@ -1,0 +1,3 @@
+input("Inserte usuario")
+for i in range(10):
+	print(i)
